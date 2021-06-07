@@ -1,1 +1,3 @@
-print("Hola Mundo Arthur Wells")
+saludo = "Hello"
+nombre= "Arthur Wells"
+print(saludo + "" + nombre)
