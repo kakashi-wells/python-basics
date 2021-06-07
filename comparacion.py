@@ -1,6 +1,6 @@
-print("ingresa su edad")
-edad = int(input())
-if edad == 18:
-    print("Eres menor de edad")
+print("ingresa su numero de la suerte")
+numero = int(input())
+if numero >= 18:
+    print("tienes mucha suerte")
 else:
-    print("Eres mayor de edad")    
+    print("tienes poca suerte")    
