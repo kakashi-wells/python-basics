@@ -1,4 +1,6 @@
-def saludar():
-    print("Hola bienvenido al juego de Cody")
+def saludar(nombre):
+    return "Hola {} bienvenido al juego de Cody".format(nombre)
 
-    saludar()
+    int("Ingresa tu nombre")
+    nombre = input()
+    print(saludar(nombre))
