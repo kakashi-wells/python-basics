@@ -3,6 +3,6 @@ num1 = int(input())
 print("ingresa el segundo punto")
 num2 = int(input())
 print("ingresa el tercer punto")
-num3 = int(input())
+num3 = float(input())
 resultado = num1 + num2 + num3
-print("El resultado es:" * resultado)
+print("El resultado es:" + str(resultado))
