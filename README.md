@@ -1,1 +1,2 @@
-Practica Basica de python
+Ejercicios básicos de python
+# python-basics#
