@@ -1,3 +1,3 @@
-saludo = "Konichiwa"
-nombre= " Kirito-kun "
-print(saludo + "" + nombre)
+saludo = "Hello/Hola/Hi"
+nombres= " Kirito-san, Asuna-san "
+print(saludo + "" + nombres)
